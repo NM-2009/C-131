@@ -1,0 +1,35 @@
+#bedroom_title
+{
+    background-color:aquamarine;
+    font-size:40px;
+    border-radius:20px;
+}
+#bedroom_img
+{
+    height:400px;
+    width:700px;
+    box-shadow: 5px 10px grey;
+    border-color:black
+}
+
+#status
+{
+    background-color:yellow;    
+    font-size:30px;
+}
+
+#number
+{
+    background-color:pink;
+    font-size:30px;
+}
+
+#backbutton
+{
+    background-color:white;
+    font-size:30px;
+    padding-right:50px; 
+    padding-left:50px;
+    border-radius:20px;
+    margin-right:1200px;
+}
